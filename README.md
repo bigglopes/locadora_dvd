@@ -24,4 +24,8 @@ Este é um sistema para gerenciamento de uma locadora de DVDs, permitindo o cada
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute o programa: `python main.py`
 4. Se deseja gear o binario gerar_exe.bat
-5. Simulate data ajuda no entendimento da funcionalidade.
+5. O script simulate_data.py é utilizado para gerar dados de teste, ajudar a entender o funcionamento do aplicativo.
+6. Execute o script: `python simulate_data.py`
+
+
+
