@@ -1,0 +1,4 @@
+# Dependências do projeto
+PyQt5
+pyinstaller
+# O sqlite3 é um módulo padrão do Python, não precisa ser instalado
