@@ -23,3 +23,5 @@ Este é um sistema para gerenciamento de uma locadora de DVDs, permitindo o cada
 1. Certifique-se de ter o Python 3.8+ instalado
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute o programa: `python main.py`
+4. Se deseja gear o binario gerar_exe.bat
+5. Simulate data ajuda no entendimento da funcionalidade.
